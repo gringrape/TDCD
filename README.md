@@ -4,6 +4,7 @@ Test Driven Career Development
 ## 현황
 - 인턴 경험 - Green
 - 개인프로젝트 - Green
+- 코드리뷰 문화 경험 - Green
 
 ## Goals
 - 유명 오픈소스 기여 - Red
