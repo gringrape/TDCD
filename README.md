@@ -1,6 +1,8 @@
 # TDCD
 Test Driven Career Development
 
+Red 중 저와 함께 진행하고 싶으신 것이 있다면, Let's do 에 PR 해주셔요.
+
 ## 현황
 - 인턴 경험 - Green
 - 개인프로젝트 - Green
@@ -13,3 +15,5 @@ Test Driven Career Development
 - 동료 추천사 - Red
 - 프로그래밍 강의 - Red
 - 앱 출시 경험 - Red 
+
+## Let's do
